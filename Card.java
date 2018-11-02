@@ -7,11 +7,11 @@ public class Card{
         //instantiate with nothing
     }
 
-    public Card(int i,String n,String e){
+    public Card(int _id,String _name,String _effect){
         //instantiate id, name and effect
-        id = i;
-        name = n;
-        effect = e;
-        System.out.println(i+" "+n+" "+e);
+        id = _id;
+        name = _name;
+        effect = _effect;
+        //System.out.println(i+" "+n+" "+e);
     }
 }

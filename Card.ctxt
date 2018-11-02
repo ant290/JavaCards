@@ -2,6 +2,6 @@
 comment0.target=Card
 comment1.params=
 comment1.target=Card()
-comment2.params=i\ n\ e
+comment2.params=_id\ _name\ _effect
 comment2.target=Card(int,\ java.lang.String,\ java.lang.String)
 numComments=3
